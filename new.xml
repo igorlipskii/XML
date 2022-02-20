@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+	<name>Igor</name>
+	<surname>Lipskii</surname>
+	<age>33</age>
+	<pets>no pets</pets>
+	<salary>
+        	<Junior>80.000 rub</Junior> 
+		<Middle>190.000 rub</Middle>
+        	<Senior>320.000+ rub</Senior>
+	</salary>
+</person>
