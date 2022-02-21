@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<my_preferences>
-	<film>John Carter</film>
-	<series>La casa de papel</series>
-	<food>pasta, vegetables and meat</food>
-	<season>Summer</season>
-	<place_to_visit>USA, Japan, New Zealand</place_to_visit>
-</my_preference>
+<myPreferences>
+    <film>John Carter</film>
+    <series>La casa de papel</series>
+    <food>pasta, vegetables and meat</food>
+    <season>Summer</season>
+    <placeToVisit>USA, Japan, New Zealand</placeToVisit>
+</myPreferences>
